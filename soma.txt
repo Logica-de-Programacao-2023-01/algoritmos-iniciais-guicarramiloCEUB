@@ -1,0 +1,4 @@
+leia primeiro_numero
+leia segundo_numero
+soma = primeiro_numero + segundo_numero
+ecreva soma

@@ -1,0 +1,6 @@
+leia lista
+leia pesos
+
+mediap = (soma dos numeros*seus pesos)/soma dos pesos
+
+escreva mediap

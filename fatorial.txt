@@ -1,0 +1,9 @@
+leia numero
+var fatorial = 1
+
+equanto numero > 0:
+	faça:
+	 fatorial = fatorial * numero
+	 numero = numero - 1
+escreva fatorial
+

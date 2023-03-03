@@ -1,0 +1,10 @@
+leia tamanho
+var soma = 0
+
+enquanto tamanho > 0:
+	faça:
+	 leia numero
+	 soma = soma + numero
+
+media = soma/tamanho
+escreva media

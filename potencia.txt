@@ -1,0 +1,6 @@
+leia numero
+leia potencia
+
+potencia = numero ** potencia
+
+escreva potencia

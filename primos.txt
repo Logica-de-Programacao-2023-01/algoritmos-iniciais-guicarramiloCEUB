@@ -1,0 +1,7 @@
+leia numero
+
+se resto da divisao do numero por 2 diferente de 0:
+	escreva "o numero é primo"
+senao:
+	escreva "o numero é par"
+

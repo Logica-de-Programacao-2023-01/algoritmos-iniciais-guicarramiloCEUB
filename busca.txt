@@ -1,0 +1,10 @@
+leia lista
+leia numero_desejado
+
+para numero da lista:
+	faça:
+	 se numero da lista == numero_desejado:
+		escreva "encontrado"
+	 senao:
+		continue
+

@@ -1,0 +1,8 @@
+leia tmeperatura
+leia unidade_de_medida
+
+se unidade_de_medida for celcius:
+	convertido = temperatura * 1.8 + 32
+senao unidade_de_medida for farenheit:
+	convertido = (temperatura - 32)/45
+escreva convertido
